@@ -1,0 +1,43 @@
+FeatureName,DataType,Description,Datascale,Domain
+AAGE,int32,Age,Continuous,Numerical
+ACLSWKR,object,Class of worker,Nominal,Categorical
+ADTIND,object,Detailed industry recode,Nominal,Categorical
+ADTOCC,object,Detailed occupation recode,Nominal,Categorical
+AHGA,object,Education,Ordinal,Categorical
+AHRSPAY,float64,Wage per hour,Continuous,Numerical
+AHSCOL,object,Enroll in edu inst last wk,Nominal,Categorical
+AMARITL,object,Marital stat,Nominal,Categorical
+AMJIND,object,Major industry code,Nominal,Categorical
+AMJOCC,object,Major occupation code,Nominal,Categorical
+ARACE,object,Race,Nominal,Categorical
+AREORGN,object,Hispanic origin,Nominal,Categorical
+ASEX,object,Sex,Nominal,Categorical
+AUNMEM,object,Member of a labor union,Nominal,Categorical
+AUNTYPE,object,Reason for unemployment,Nominal,Categorical
+AWKSTAT,object,Full or part time employment stat,Nominal,Categorical
+CAPGAIN,float64,Capital gains,Continuous,Numerical
+CAPLOSS,float64,Capital losses,Continuous,Numerical
+DIVVAL,float64,Dividends from stocks,Continuous,Numerical
+FILESTAT,object,Tax filer stat,Nominal,Categorical
+GRINREG,object,Region of previous residence,Nominal,Categorical
+GRINST,object,State of previous residence,Nominal,Categorical
+HHDFMX,object,Detailed household and family stat,Nominal,Categorical
+HHDREL,object,Detailed household summary in household,Nominal,Categorical
+MARSUPWT,float64,Instance weight,Ratio,Numerical
+MIGMTR1,object,Migration code-change in msa,Nominal,Categorical
+MIGMTR3,object,Migration code-change in reg,Nominal,Categorical
+MIGMTR4,object,Migration code-move within reg,Nominal,Categorical
+MIGSAME,object,Live in this house 1 year ago,Nominal,Categorical
+MIGSUN,object,Migration prev res in sunbelt,Nominal,Categorical
+NOEMP,object,Num persons worked for employer,Continuous,Categorical
+PARENT,object,Family members under 18,Nominal,Categorical
+PEFNTVTY,object,Country of birth father,Nominal,Categorical
+PEMNTVTY,object,Country of birth mother,Nominal,Categorical
+PENATVTY,object,Country of birth self,Nominal,Categorical
+PRCITSHP,object,Citizenship,Nominal,Categorical
+SEOTR,object,Own business or self employed,Nominal,Categorical
+VETQVA,object,Fill inc questionnaire for veteran's admin,Nominal,Categorical
+VETYN,object,Veterans benefits,Nominal,Categorical
+WKSWORK,int32,Weeks worked in year,Continuous,Numerical
+YEAR,int32,Year,Nominal,Categorical
+PTOTVALB,object,Total person income,Nominal,Categorical
